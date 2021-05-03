@@ -27,8 +27,8 @@ quote: [情報処理技術者試験・情報処理安全確保支援士試験](h
 # Usage
 
 ```bash
-git clone https://github.com/hoge/~
-cd examples
+git clone git@github.com:NatsukiNateYamashita/MyModules.git
+cd MyModules/IPA
 pip install -r requirements.txt
 python IPA_download.py
 ```
