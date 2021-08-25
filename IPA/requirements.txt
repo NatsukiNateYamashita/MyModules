@@ -277,7 +277,7 @@ tblib @ file:///tmp/build/80754af9/tblib_1597928476713/work
 tensorboard==1.14.0
 tensorboard-plugin-wit==1.6.0.post3
 tensorboardX==2.0
-tensorflow==1.13.1
+tensorflow==2.5.1
 tensorflow-datasets==3.1.0
 tensorflow-estimator==1.14.0
 tensorflow-metadata==0.15.2
