@@ -197,7 +197,7 @@ portalocker==1.7.0
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
 promise==2.3
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
-protobuf==3.14.0
+protobuf==3.15.0
 psutil @ file:///opt/concourse/worker/volumes/live/8e01e0e9-ea07-4efa-7afb-fae37c1b9faa/volume/psutil_1612298009056/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 py @ file:///tmp/build/80754af9/py_1607971587848/work
