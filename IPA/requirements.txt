@@ -296,7 +296,7 @@ tornado @ file:///opt/concourse/worker/volumes/live/d531d395-893c-4ca1-6a5f-717b
 tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
 traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
 transformers==4.4.2
-Twisted==19.2.0
+Twisted==22.10.0
 typed-ast @ file:///opt/concourse/worker/volumes/live/f24de662-b4e3-467b-58a8-199787662676/volume/typed-ast_1610484563580/work
 typing==3.7.4.1
 typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
